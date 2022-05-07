@@ -26,7 +26,8 @@ import os
 
 try:
 
-	import concurrent.futures
+	import concurrent.
+	futures
 
 	os.system("pip install requests")
 
