@@ -26,7 +26,7 @@ import os
 
 try:
 
-	import requestsexcept
+	
 
 	os.system("pip install requests")
 
